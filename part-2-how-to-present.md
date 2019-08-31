@@ -1,8 +1,16 @@
-# Hands-on 2
+class: middle, center
 
-## Make it a performance, make it informative, make it an emotional tour
+# Part 2
 
-    how you struggled with the problem, how you solved it, what you learned from that
+# How to present
+
+---
+
+## Make it a performance, make it an emotional tour
+
+    * how you struggled with the problem
+    * how you solved it
+    * what you learned from that
 
 ---
 
@@ -22,10 +30,18 @@
 
 ## What do people remember
 
-    No one will remember what you said but they will remember how you made them feel
+    No one will remember what you said,
+    but they will remember how you made them feel
 
 ---
 
 ## Your slide
 
-    Illustration rather than narration: do not make people read too much
+    Illustration rather than narration:
+    do not make people read too much
+
+---
+
+class: center, middle
+
+# Your two-min lightening talk
