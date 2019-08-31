@@ -1,36 +1,24 @@
 class: orange, middle
 
-# Unit testing
-
-# workshop
+# Your first tech talk workshop
 
 ### CopenhagenJS
 
----
-
 # Welcome
-
----
 
 ```
 17:00 Doors open
-17:30 Welcome
-17:50 Brief introduction to TDD and
-      available test frameworks for frontend
-18:15 Hands-on - Setting up Jest
-18:45 Food break
-19:15 How to test a component, service, reducer,
-      effect and action? And what on earth
-      is snapshot testing?
-19:30 Hands-on Writing tests for component, service
-20:00 Best practices with testing consisting
-      of naming, assertions, what should be
-      tested and dealing with external resources
-20:30 See you next time
+17:30 Welcome by Zoey
+17:40 How to give your first talk? What to talk about?
+18:00 Workshop content part one - generating and writing down ideas
+18:30 Break with snack/drinks and Q&amp;A - ask people to think about what they can give a brief talk
+19:00 Workshop content part two - How to present it
+19:30 Talk about some technical related experience/struggle for 2mins, either use the general guidelines, or their own ideas written down before
+20:00 Community time
+20:30 Thank you for this time - door closes
 ```
 
----
+# Why and how
 
-# Why is testing important?
-
----
+- Why do you want to give tech talk?
+- How many times have you thought about it and gave up?
