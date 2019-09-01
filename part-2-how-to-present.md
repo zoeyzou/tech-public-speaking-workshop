@@ -14,9 +14,25 @@ class: middle, center
 
 ---
 
+# How long should it be?
+
+---
+
+# Be technical, but don't live code
+
+---
+
+# Don't take questions
+
+---
+
 ## Talk about YOUR story
 
     Instead of telling a lesson learned or technical problem
+
+---
+
+# Funny images and gifs?
 
 ---
 
@@ -28,20 +44,22 @@ class: middle, center
 
 ---
 
-## What do people remember
+## What should people remember?
 
     No one will remember what you said,
     but they will remember how you made them feel
 
 ---
 
-## Your slide
+## Your slides
 
     Illustration rather than narration:
     do not make people read too much
 
 ---
 
-class: center, middle
+# Work (30min):
 
-# Your two-min lightening talk
+## Think about and write down what you want to say?
+
+## Think and write down what you want to show?
